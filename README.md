@@ -2,6 +2,8 @@
 
 This solution is POC for a custom [device authorization grant](https://tools.ietf.org/html/rfc8628), which allows users to sign in to input-constrained devices such as a smart TV, IoT device, or printer, with Azure AD B2C as the identity provider.  To enable this flow, the device has the user visit a webpage in their browser on another device to sign in.  Once the user signs in, the device is able to get access tokens and refresh tokens as needed.
 
+![User flow](media/user-flow.png)
+
 ## Disclaimer and known issue
 
 - The sample is not supported under any Microsoft standard support program or service. The sample is provided AS IS without warranty of any kind. The entire risk arising out of the use or performance of the sample documentation remains with you.
