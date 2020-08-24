@@ -4,7 +4,7 @@ This solution is POC for a custom [device authorization grant](https://tools.iet
 
 ![User flow](media/user-flow.png)
 
-## Disclaimer and known issue
+## Disclaimer and known issues
 
 - The sample is not supported under any Microsoft standard support program or service. The sample is provided AS IS without warranty of any kind. The entire risk arising out of the use or performance of the sample documentation remains with you.
 
